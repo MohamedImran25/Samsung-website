@@ -37,6 +37,7 @@ header button:hover{
     height: 160vh;
     /* border: 1px solid black; */
     background-image: url(gr4.png);
+    background-repeat: no-repeat;
 }
 .banner img{
     width: 48%;
